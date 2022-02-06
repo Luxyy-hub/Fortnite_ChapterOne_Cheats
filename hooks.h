@@ -35,3 +35,4 @@ DWORD_PTR* pContextVTable = NULL;
 DWORD_PTR* pDeviceVTable = NULL;
 
 #endif
+
